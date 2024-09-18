@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0; /* Remove margens padrão */
-    background: url('../img/ceuwallpaperkk.jpg') no-repeat;
+    background: url('../img/wallpaper.jpg') no-repeat;
     background-size: cover;
     background-position: center 90%;
     background-attachment: fixed; /* Fixar a imagem de fundo */
